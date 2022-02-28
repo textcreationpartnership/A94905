@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>August 19th. A true and exact relation of all the proceedings of Marquesse Hartford, Lord Pawlet, Lord Seymor, Lord Coventry, Sir Ralph Hopton, and other His Maiesties commissioners in the publishing of the commission of array in his Maiesties county of Somerset. Brought over by a gentleman who was an eye witnesse of all passages and proceedings there. Whereunto is added true newes from Yorke, Hull, Newcastle and Darbyshire. Also a list of the horse under the command of William Earle of Bedford, lord generall. With the names of the captaines of every troope; each troope containing sixty horse, besides one livetenant, one ensigne, one coronet, one quarter-master, two-trumpeters, three corporals, one sadler, one farrier.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94905</idno>
+            <idno type="STC">Wing T2439</idno>
+            <idno type="STC">Thomason E112_33</idno>
+            <idno type="STC">ESTC R1906</idno>
+            <idno type="EEBO-CITATION">99860559</idno>
+            <idno type="PROQUEST">99860559</idno>
+            <idno type="VID">112682</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94905)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112682)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>August 19th. A true and exact relation of all the proceedings of Marquesse Hartford, Lord Pawlet, Lord Seymor, Lord Coventry, Sir Ralph Hopton, and other His Maiesties commissioners in the publishing of the commission of array in his Maiesties county of Somerset. Brought over by a gentleman who was an eye witnesse of all passages and proceedings there. Whereunto is added true newes from Yorke, Hull, Newcastle and Darbyshire. Also a list of the horse under the command of William Earle of Bedford, lord generall. With the names of the captaines of every troope; each troope containing sixty horse, besides one livetenant, one ensigne, one coronet, one quarter-master, two-trumpeters, three corporals, one sadler, one farrier.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug. 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bedford, William Russell, --  Duke of, 1613-1700.</term>
+               <term>Coventry, Thomas Coventry, --  Baron, 1606-1661.</term>
+               <term>Somerset, William Seymour, --  Duke of, 1588-1660.</term>
+               <term>Hopton, Ralph Hopton, --  Baron, 1598-1652.</term>
+               <term>Winchester, John Paulet, --  Earl of, 1598-1675.</term>
+               <term>Commissions of array --  England --  Early works to 1800.</term>
+               <term>Derbyshire (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Hull (England) --  History --  Early works to 1800.</term>
+               <term>York (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112682:1" rendition="simple:additions"/>
+            <p>
+               <hi>August</hi> 19<hi rend="sup">th</hi>.</p>
+            <p>A True and Exact Relation Of all the Proceedings of Marqueſſe <hi>Hartford,</hi> Lord <hi>Pawlet,</hi> Lord <hi>Seymor,</hi> Lord <hi>Coventry,</hi> Sir <hi>Ralph Hopton,</hi> and other His Maieſties Commiſſioners in the publiſhing of the Commiſſion of Array in his Maieſties County of <hi>SOMERSET.</hi>
+            </p>
+            <p>Brought over by a Gentleman who was an Eye witneſſe of all the Paſſages and Proceedings there.</p>
+            <p>Wherunto is added True Newes from <hi>Yorke, Hull, Newcaſtle</hi> and <hi>Darbyſhire.</hi>
+            </p>
+            <p>Alſo a Liſt of the Horſe under the Com<g ref="char:EOLhyphen"/>mand of WILLIAM Earle of <hi>Bedford,</hi> Lord Generall. With the Names of the Captaines of every Troope; each Troope containing ſixty Horſe, beſides one Livetenant, one Enſigne, one Coronet, one Quarter-maſter, two Trumpeters, three Corporals, one Sadler, one Farrier.</p>
+            <p>London Printed, 1642. <add>Aug. 19.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:112682:2"/>
+            <pb facs="tcp:112682:2"/>
+            <head>A TRVE RELATION Of all the proceedings of the Lord Marqueſſe <hi>Hartford,</hi> Lord <hi>Paulet,</hi> Lord <hi>Coven<g ref="char:EOLhyphen"/>try,</hi> Sir <hi>Ralph Hopton,</hi> and other His Majeſties Commiſſioners in the County of <hi>Somerſet.</hi>
+            </head>
+            <div type="part">
+               <head>Somerſetſhire.</head>
+               <p>
+                  <seg rend="decorInit">M</seg>Unday the firſt of <hi>Auguſt</hi> the Lord Marqueſſe be<g ref="char:EOLhyphen"/>ing then in <hi>Wells,</hi> was informed that Sir <hi>Francis Popham,</hi> S. <hi>Edward Baynton,</hi> Sr <hi>Edward Hungerford,</hi> and M. <hi>Iohn Aſhe</hi> did intend by force of armes to oppoſe them in the executing of the Commiſſion of Array, and to that intent had commanded the Trained-bands of that part of <hi>Somerſetſhire,</hi> and the North weſt part of <hi>Wilts,</hi> to attend them on <hi>Mendeep,</hi> in the meane time Sir <hi>Ralph Hopton</hi> publiſhing the Commiſſion of Array in <hi>Shep<g ref="char:EOLhyphen"/>ton-mallet</hi> was oppoſed by M. <hi>Stroude,</hi> who came with 700. men and would not ſuffer Sir <hi>Ralph Hopton</hi> to read it; upon which, though his company was but ſmall, not amounting to above 24 Horſe, or thereabout, yet he ſo valiantly behaved himſelfe, that amidſt all M. <hi>Strouds</hi> company he unhorſt him (though to the great hazzard of his life) for he had no ſooner laid hands on him but a man of M. <hi>Strouds</hi> preſented a Piſtoll to him ready cockt, and had kild that
+<pb facs="tcp:112682:3"/>Noble Gentleman, had it not been prevented by one M. <hi>White</hi> then waiting no him, who ſnacht the Piſtoll out of this fellowes hands. Sir <hi>Ralph</hi> having taken M. <hi>Stroud</hi> priſoner, delive<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed him into the Conſtable of <hi>Shepton-mallets</hi> hands, who was compelled by the mul<g ref="char:EOLhyphen"/>titude after S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <hi>R<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lphs</hi> departu e to releaſe him or loſe his own life.</p>
+               <p>By Wedneſday night the Gentlemen of the County had ſent in<g ref="char:EOLhyphen"/>to <hi>Wels</hi> to attend the Marqueſſe two or three hundred Horſe very well provided, and Sir <hi>Iohn Horner</hi> with ſome of the other ſide, were met at M. <hi>Alexander Pophams</hi> Houſe, whoſe company amounted to 1000. armed m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, beſides the multitudes that came flocking from every houſe upon Letters that were ſent ſome Gentlemen of that County, ſtuft with ſo many doubts and feares that the people thought if they did not now play the men, they ſhould be utterly undone forever. This cauſed their army to increaſe, ſo that by thurſday night their company conſiſted of 8000 people, at which time the Marqueſſe perceiving the danger he with the reſt of his company were in by reaſon of this multitude, thought fit to ſend out Scouts, 60. Horſe or upward, to guard the weſt part of the Towne, which ac<g ref="char:EOLhyphen"/>cordingly they did, but roving ſomewhat farther then they had in<g ref="char:EOLhyphen"/>tended, the evening being very ſilent they might heare not farre di<g ref="char:EOLhyphen"/>ſtant a Troop of Horſe and Foot, as they gueſt, which made them to be very earneſt to be ſatisfied in the thing, therefore with a joynt conſent they marched forward till they found this conjecture to be true, the company as they conceived could not be leſſe the 500. and therefore thought, their owne company being ſo ſmall, they ſhould be forc'd to give them way; but ſee the brave reſolution of theſe brave Cavaleers who thought it more glory to die Honourably, then to purchaſe a life by a cowardly flight, therefore they choſe three of their fellows to treate with them and to know what their intentions were; their anſwer was they intended to march for <hi>Men<g ref="char:EOLhyphen"/>deep</hi> that night; the Gentlemen hearing their anſwer, told them that by the Lord Marqueſſe appointment they were ſet to guard that peece of that County, and keep peace, if by any meanes poſſible they might, and with all deſired their Captaines, M. <hi>Pine,</hi> and M. <hi>Pr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtle,</hi> that they would returne every man to his owne home, this could by no meanes be granted, but if they could not have their way by faire meanes they would have it by foule. This anſwer being re<g ref="char:EOLhyphen"/>turned to the Gentlemen they provided themſelves for the encounter, Collonell <hi>Lunsford</hi> with 20 of the Troopers armed with Carbines,
+<pb facs="tcp:112682:3"/>by the helpe of a ditch joyning to the highway lay undiſcovered, and commanded the Souldiers that none ſhould ſtirre till they ſaw him with his company come forth of this pit ſhouting and diſchar<g ref="char:EOLhyphen"/>ging there Carbines, which being done they all ſhould doe the like, by the time they had ſet themſelves in o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>der theſe people were come within a Musket ſhot, and diſcharged againſt the Gentlemen forty Muskets or more, but were not as yet come ſo neere Collonell <hi>Lunſ<g ref="char:EOLhyphen"/>ford</hi> as he wiſht them, who was forced as yet to lie ſtill, but com<g ref="char:EOLhyphen"/>ming on thinking to make their way (through their ſuppoſed weake adverſary) at length came within the reach of his Carbines, who preſently ſhouted and diſcharged amongſt the people, who being hurt by they knew not whom, nor hardly from whence, and the Ca<g ref="char:EOLhyphen"/>valeers with the ſame expreſſion comming in their faces, were ſo diſtracted that they knew not which way to flie, ſome throwing downe their armes and running into Corners, others fled, ſome ran into the Corne to hid? themſelves, for next day in the afternoone two of them were found dead in the Corne, (yet note the goodneſſe of theſe Gentlemen Cavaleers) they did not offer to ſtrike one man to hurt him after they were routed, onely tooke Captaine <hi>Preſtle</hi> priſoner, who was as well intreated with the Marqueſſe as any one of his own ſervants. There were killed of theſe people foure, and foure<g ref="char:EOLhyphen"/>teen that are deſperarely wounded; they tooke from them 15 Horſe, and 30 Muskets with ſome other Ammunition to no great valew, which they ranne away from.</p>
+               <p>Well, now to my <hi>Mendeep</hi> Gentlemen, who (as ſome ſay) were no ſooner upon the hill in the ſight of <hi>Wells,</hi> but their number increa<g ref="char:EOLhyphen"/>ſed to 40000. fighting men, and women, ſome bringing Pitchforkes, Dungpeeks, and ſuch like weapons, not knowing (poore ſoules) whom to fight againſt, but afraid they were of the Papiſts.</p>
+               <p>Now in the ſight of this great Army there appeared ſome forty Horſe or there abouts, which ſo frighted them that they knew not what to doe, nor whether to flie, a confuſed noiſe was heard in the Campe, crying the enemy was commingſ; well, to be ſhort the Ca<g ref="char:EOLhyphen"/>valeers left the hill, informing the Lord Marqueſſe of the multitude, deſiring he would be pleaſed to ſuffer 500 Troopers to encounter with them (if they could) but he out of his goodneſſe towards them would by no meanes grant their deſires therein, but reſolved rather then ſpill blood to leave the Town next morning, which according-he did; no ſooner were theſe Gentlemen gone, but theſe people came
+<pb facs="tcp:112682:4"/>into the Town with ſuch expreſſion of joy for their ſuppoſed con<g ref="char:EOLhyphen"/>queſt as is hardly imaginable, tearing downe the painted Glaſſe out of the windows of the Church, and in the height of their zeale gloried in that action more then in vanquiſhing of the Papiſts; and having found a picture, that pleaſed them ſo well that they plac'd it upon the point of a Speare, whether in adoration or deriſion I cannot tell. So I leave the<g ref="char:cmbAbbrStroke">̄</g> departing home with that great trophe of their victory.</p>
+               <p>As for the Lord Marqueſſe and the reſt of the Gentlemen, I heare they are at <hi>Sherburne</hi> with a guard of 2000 men compleatly armed, with two Piſtols before them, a Carbine in one hand, and a Lance in the other.</p>
+               <closer>
+                  <salute>Farewell.</salute>
+               </closer>
+            </div>
+            <div type="part">
+               <head>Yorke.</head>
+               <p>THurſday the fifth of <hi>Auguſt,</hi> there was a meeting of the whole County of <hi>Yorke,</hi> where his Majeſty made a ſpeech deſiring their aſſiſtance to ſerve him in perſon, or upon condition that they would tender their Horſe and Armes, &amp;c. His Majeſty would finde men, but they Petition the contrary deſiring they might not be diſ<g ref="char:EOLhyphen"/>armed, but that they might keepe their armes for the defence of the County, which His Majeſty was gratiouſly pleaſed to grant; in the Weſt riding of this County the Commiſſion of Array hath been put in execution, and they have deducted men out of every band which are to goe towards <hi>Yorke</hi> for his Majeſties ſervice. Friday 6 of <hi>Auguſt</hi> there landed at <hi>Hartle-Poole</hi> a Ship laden with great ſtore of Amu<g ref="char:EOLhyphen"/>nition and money for His Majeſties ſervice, and were ſafe conveyed to <hi>York:</hi> Our Souldiers here are very ſerviceably ſet forth thought not ſo fine a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thoſe in <hi>London,</hi> but our Cavaleers are exceeding brave. His Majeſty hath given Commiſſion to Colonell <hi>Lunsford</hi> to raiſe a 1000 Volunteers in <hi>Yorke,</hi> or elſe where with all ſpeed.</p>
+            </div>
+            <div type="part">
+               <head>Hull.</head>
+               <p>THe Cavaleers have left the ſiege againſt the Towne, the market is kept openly, but there is a ſtrong Gariſon kept here ſtill. Sir <hi>Iohn</hi> iſſue out of the Towne divers times, and hath taken divers horſe and foote, and likewiſe he hath taken on Maſter <hi>Booth</hi> a recuſant,
+<pb facs="tcp:112682:4"/>but Colonell <hi>Aſhbournham</hi> is eſcaped from thence in a diſguiſe, and is fled to his Maj<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſty which pleaſeth not Sir <hi>John,</hi> the <hi>Yorkeſhire</hi> men have promiſed His Majeſty to ſend 500 Horſe to lye before <hi>Hull,</hi> to ſtop all paſſages and hinder Sir <hi>Iohns</hi> roving out on the Country. Sir <hi>Thomas Inſtam</hi> with his aſſiſtance hath quartered his Souldiers in the road. Colonell <hi>Lunsford</hi> is neare <hi>Doncaſter,</hi> and other Cava<g ref="char:EOLhyphen"/>leers have diſperſed themſelves in ſeverall troopes to hinder all paſ<g ref="char:EOLhyphen"/>ſages to or from <hi>London.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>New-Caſtle.</head>
+               <p>THe Earle of <hi>New-Caſtele</hi> hath ſtrongly fortified <hi>New-Caſtle,</hi> with above a 100 peeces of Ordnance, and keepes a ſtrong Gariſon there. Alſo there is great ſtore of Amunition landed there from <hi>Holland</hi> or other parts.</p>
+            </div>
+            <div type="part">
+               <head>Darbyſhire.</head>
+               <p>THere hath beene here a great robbery committed lately by the Cavaleers upon a poore man, who had received 50. l. upon a bond, and being returning home was ſet upon by 7 Cavaleers, who held their Piſtols at him ready cockt, demanding his money, ſaying they were His Majeſties ſervants, and they muſt have money, and ha<g ref="char:EOLhyphen"/>ving gotten the money, ſhot and kild his Horſe, but ſpared the per<g ref="char:EOLhyphen"/>ſon alive, who when they were gone he made ſpeed unto the Towne, and ſent hue and cry after them, and two of them were taken in an Inne neere the high way, and were brought before the Juſtice and committed to priſon, but they found very little money they had, for they who were the purſe-bearers are not as yet cought. At a muſtering of the trayned bands here, there was a great diviſion among the Souldiers, for ſome were for the Commiſſion of Array, and others ſtood for the Ordinance of Parliament, the contention grew ſo hot that there was a great ſlaughter on both ſides, there was 19 ſlayne of thoſe that were for the Commiſſion of Array, and five of thoſe which ſtood for the Ordinance of Parliament, there was a Juſtice of peace of this County a very able man, who made a ſpeech in the defence of the Ordinance of Parliament which gave the people great ſa<g ref="char:EOLhyphen"/>tisfaction.</p>
+            </div>
+         </div>
+         <div type="list_of_troops">
+            <pb facs="tcp:112682:5"/>
+            <head>A liſt of the Horſe under the command of <hi>William</hi> Earle of <hi>Bedford,</hi> Lord Generall of the horſe, with the names of the Captaines, each Troop containing 60 Horſe, beſides 1 Lievtenant, 1 Coronet, 1 Enſigne, 1 Quarter maſter, 2 Trumpeters, 3 Corperalls, a Sadler and a Farrier.</head>
+            <list>
+               <head>Troope.</head>
+               <item>1. Lord Generall,</item>
+               <item>2. Sir William Balfoore Leiut. Ge.</item>
+               <item>3. Lord Gray.</item>
+               <item>4. Lord Brooke.</item>
+               <item>5. Lord Haſting.</item>
+               <item>6. Lord St. Iohn.</item>
+               <item>7. Lord Stanford.</item>
+               <item>8. Lord Feilding.</item>
+               <item>9. Lord Wharton.</item>
+               <item>10. L. Willoughby of Parh.</item>
+               <item>11. Iames Sheffield.</item>
+               <item>12. Sir William Waller.</item>
+               <item>13. Iohn Gunter.</item>
+               <item>14. William Pretty.</item>
+               <item>15. Robert Burrell.</item>
+               <item>16. Francis Dowet.</item>
+               <item>17. — Temple.</item>
+               <item>18. Iohn Bird.</item>
+               <item>19. Mathew Draper.</item>
+               <item>20. — Dimock.</item>
+               <item>21. Hor. Cary.</item>
+               <item>22. Iohn Aluered.</item>
+               <item>23. Iohn Neale.</item>
+               <item>24. Iohn Hammond.</item>
+               <item>25. Ed. Ayſcough.</item>
+               <item>26. Alexander Pim.</item>
+               <item>27. Iohn Hotham.</item>
+               <item>28. Arthur Evelin.</item>
+               <item>29. Geor. Tompſon.</item>
+               <item>30. Edwin Sandys.</item>
+               <item>31. Antony Milemay.</item>
+               <item>32. Ed. Kighly.</item>
+               <item>33. Nathaniel Fines.</item>
+               <item>34. Ed. Berry.</item>
+               <item>35. Alex. Douglas.</item>
+               <item>36. Tho. Lidcot.</item>
+               <item>37. Tho. Hammond.</item>
+               <item>38. Iohn Dulbeir.</item>
+               <item>39. Fean. Fines.</item>
+               <item>40. Sir Arth. Haſelwrick.</item>
+               <item>41. Sir Walt. Earle.</item>
+               <item>42. John Fleming.</item>
+               <item>43. Arthur Goodwin.</item>
+               <item>44. Rich. Grinvil.</item>
+               <item>45. Tho. Terrill.</item>
+               <item>46. Iohn Hale.</item>
+               <item>47. Hen. Milemay of Gr.</item>
+               <item>48. Will. Balfoore.</item>
+               <item>49. George Auſten.</item>
+               <item>50. Adrian Scroope.</item>
+               <item>51. Herc. Langriſhe.</item>
+               <item>52. Ed. Wingate.</item>
+               <item>53. Ed. Babington.</item>
+               <item>54. Charles Chicheſter.</item>
+               <item>55. Hen. Treton.</item>
+               <item>56. Wilter Long.</item>
+               <item>57. I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn Fines.</item>
+               <item>58. Fran. Thompſon.</item>
+               <item>59. Edmund Weſt.</item>
+            </list>
+            <list>
+               <head>Captaines of the foure Troopes of <hi>Dragooners</hi> each Troop 100.</head>
+               <item>1. Sir Iohn Brown<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</item>
+               <item>2. Nathan. Gordon.</item>
+               <item>3. Iohn Browne.</item>
+               <item>4 Will. Buchan.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
